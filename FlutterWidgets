@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
             Text('Hello Flutter!'),
 
             Image.network(
-              'https://flutter.dev/images/flutter-logo-sharing.png',
+              '',
               height: 80,
             ),
 
